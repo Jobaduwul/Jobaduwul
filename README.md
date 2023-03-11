@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there!👋
 
 I am Jawadul (He/Him/His), wannabe software developer.
 
