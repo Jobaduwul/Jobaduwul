@@ -1,10 +1,13 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... MERN Stack, Android Development, Game Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+I am Jawadul, wannabe software developer.
+I am always keen to learning new technologies
+
+I’m currently learning:
+- MERN Stack
+- Android Development
+- Game Development
+
 - 📫 How to reach me: ... kazijawadulislam123@gmail.com
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ...
