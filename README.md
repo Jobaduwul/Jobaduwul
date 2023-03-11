@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I am Jawadul, wannabe software developer.
-I am always keen to learning new technologies
+I am always keen to learning new technologies.
 
 I’m currently learning:
 - MERN Stack
