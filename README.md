@@ -15,6 +15,8 @@ How to reach me:
 - 📧 kazijawadulislam123@gmail.com
 - FB www.facebook.com/jobaduwul
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobaduwuwl&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobaduwul&hide=contribs,prs&show_icons=truet&theme=transparent)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jobaduwul)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jobaduwul&theme=dark)](https://git.io/streak-stats)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kazijawadulislam)
