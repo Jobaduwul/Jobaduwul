@@ -1,13 +1,16 @@
 # Hi there 👋
 
-I am Jawadul, wannabe software developer.
+I am Jawadul (He/Him/His), wannabe software developer.
+
 I am always keen to learning new technologies.
 
-I’m currently learning:
-- MERN Stack
-- Android Development
-- Game Development
+Currently, I amm pursuing my Undergrad at Islamic University of Technology. 🎓🧑‍💻
 
-- 📫 How to reach me: ... kazijawadulislam123@gmail.com
-- 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ...
+I’m currently learning:
+- 🖥️ MERN Stack
+- 📱 Android Development
+- 🎮 Game Development
+
+How to reach me:
+- 📧 kazijawadulislam123@gmail.com
+- 
