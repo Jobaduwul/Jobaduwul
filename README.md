@@ -7,8 +7,6 @@ I am always keen to learning new technologies.
 Currently, I am pursuing my Undergrad at Islamic University of Technology. 🎓🧑‍💻
 
 I’m currently learning:
-- 🖥️ MERN Stack
-- 📱 Android Development
 - 🎮 Game Development
 
 How to reach me:
