@@ -17,6 +17,4 @@ How to reach me:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jobaduwul&theme=dark)](https://git.io/streak-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kazijawadulislam)
-
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
