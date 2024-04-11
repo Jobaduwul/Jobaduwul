@@ -1,6 +1,6 @@
 # Hello there!👋
 
-I am Jawadul (He/Him/His), wannabe game developer.
+I am Jawadul, wannabe game developer.
 
 I am always keen to learning new technologies.
 
