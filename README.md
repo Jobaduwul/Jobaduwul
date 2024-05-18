@@ -8,11 +8,14 @@ Currently, I am pursuing my Undergrad at Islamic University of Technology. 🎓�
 
 Game engines I work with:
 - 🎮 Unity 3D
-
+- 🎮 Unreal Engine
 
 I’m currently learning:
-- 🎮 Unreal Engine
+- 🎮 Game Design
+- 🎮 Computer Graphics
+- 🎮 Blender
 - 🎮 Godot Engine
+- 🎮 Unreal Engine
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobaduwul&hide=contribs,prs&show_icons=truet&theme=transparent)
 
