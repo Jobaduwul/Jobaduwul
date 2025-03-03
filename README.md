@@ -8,12 +8,12 @@ Currently, I am pursuing my Undergrad at Islamic University of Technology. 🎓�
 
 Game engines I work with:
 - 🎮 Unity 3D
-- 🎮 Unreal Engine
 
 I’m currently learning:
 - 🎮 Game Design
 - 🎮 Computer Graphics
 - 🎮 Blender
+- 🎮 Unity Engine
 - 🎮 Godot Engine
 - 🎮 Unreal Engine
 
